@@ -1,0 +1,2 @@
+# MailBox
+A custom mailbox.
